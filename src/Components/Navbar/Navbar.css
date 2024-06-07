@@ -7,14 +7,14 @@
 }
 
  .logo{
-    width: 100px;
+    width: 80px;
     padding-left: 50px;
 }
 
 .nav-logo{
     display: flex;
     align-items: center;
-    gap: 100px ;
+    gap: 260px ;
 }
 
 .nav-logo p{
