@@ -8,17 +8,16 @@
 
  .logo{
     width: 80px;
-    padding-left: 50px;
 }
 
 .nav-logo{
     display: flex;
     align-items: center;
-    gap: 260px ;
+    gap: 50px ;
 }
 
 .nav-logo p{
-    font-size: 38px;
+    font-size: 28px;
     font-weight: 500;
 }
 
